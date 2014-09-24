@@ -10,9 +10,9 @@ This game was designed to work on the ATmega64 microcontroller but is compatible
 
 Documents
 ----------
-Assignment Specification: <strong>Project2014 Spec.pdf</strong>
-User Manual: <strong>/User Manual/G12 Racer Game User Manual.pdf</strong>
-Design Document: <strong>/Design Document/G12 Racer Game Design Manual.pdf</strong>
+Assignment Specification: <strong>Project2014 Spec.pdf</strong><br/>
+User Manual: <strong>/User Manual/G12 Racer Game User Manual.pdf</strong><br/>
+Design Document: <strong>/Design Document/G12 Racer Game Design Manual.pdf</strong><br/>
 
 
 Version
@@ -21,11 +21,9 @@ This is version 1.2 of the G12 Racer game which extends on the features of the p
 
 Other Authors
 -------------
-Phillip Khorn,
-
-Pearlie Zhang, 
-
-Savinka Wijeyeratne
+Phillip Khorn,<br/>
+Pearlie Zhang,<br/> 
+Savinka Wijeyeratne<br/>
 
 License
 -------
