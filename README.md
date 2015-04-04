@@ -27,4 +27,4 @@ Savinka Wijeyeratne<br/>
 
 License
 -------
-Free to use.
+The MIT License (MIT)
